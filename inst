@@ -1,0 +1,3 @@
+curl -fsSL https://raw.githubusercontent.com/TurboAth/mix/main/install.sh | bash
+mix <name>
+curl -fsSL https://raw.githubusercontent.com/TurboAth/mix/main/uninstall.sh | bash
